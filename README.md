@@ -4,5 +4,8 @@ if autoService == 'Oil change':
     print('You entered:', autoService)
     print('Cost of oil change: %d' %35)
 elif autoService == 'Tire rotation': 
-print('You entered:', autoService)
-    print('Cost of Tire rotation: %d' %19)
+    print('You entered:', autoService)
+    print('Cost of tire rotation: %d' %19)
+elif autoService == 'Car wash':
+    print('You entered:', autoService)
+    print('Cost of car wash: %d' %7)
